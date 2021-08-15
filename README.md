@@ -1,0 +1,2 @@
+# advancetheme
+WordPress Advance Theme
